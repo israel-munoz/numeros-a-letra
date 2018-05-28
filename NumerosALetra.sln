@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosALetra", "NumerosALetra\NumerosALetra.csproj", "{E84BA445-C81D-45DE-8A4C-3F8C30437DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosALetra.Test", "NumerosALetra.Test\NumerosALetra.Test.csproj", "{F9AE423C-6C7A-4D03-9EBE-99663E8B623B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{88630F9B-5B9C-4BD0-9A42-73EF1501773A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84BA445-C81D-45DE-8A4C-3F8C30437DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84BA445-C81D-45DE-8A4C-3F8C30437DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84BA445-C81D-45DE-8A4C-3F8C30437DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84BA445-C81D-45DE-8A4C-3F8C30437DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AE423C-6C7A-4D03-9EBE-99663E8B623B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AE423C-6C7A-4D03-9EBE-99663E8B623B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AE423C-6C7A-4D03-9EBE-99663E8B623B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AE423C-6C7A-4D03-9EBE-99663E8B623B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2CA245-BC82-49B0-9CC5-8BAD193DB555}
+	EndGlobalSection
+EndGlobal
